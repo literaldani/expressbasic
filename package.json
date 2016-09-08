@@ -1,0 +1,14 @@
+{
+  "name": "expressbasic",
+  "version": "1.0.0",
+  "description": "Breve ejercicio para la practica de rutas con expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Arocha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
